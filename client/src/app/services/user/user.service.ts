@@ -11,6 +11,7 @@ export class UserService {
 
   getUsers()
   {
+    console.log('In getUsers()');
     return this.http.get<User[]>('/api/users');
   }
 }

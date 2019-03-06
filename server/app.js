@@ -5,7 +5,7 @@ const jwt=require('jsonwebtoken');
 const expressJwt=require('express-jwt');
 
 const app = express()
-app.use(bodyParser.json());
+app.use(expressJwt({secret: 'todo-app-super-shared-secret'}).unless({path: ['/api/auth']}));
 
 var TODOS = [
     { 'id': 1, 'user_id': 1, 'name': "Get Milk", 'completed': false },
@@ -38,7 +38,7 @@ app.get('/', function (req, res) {
 });
 app.get('/api/todos', function (req, res) {
     res.type("json");
-    res.send(getTodos(1));
+    res.send(getTodos(req.user.userID));
 });
 app.get('/api/todos/:id', function (req, res) {
     var todoID = req.params.id;
