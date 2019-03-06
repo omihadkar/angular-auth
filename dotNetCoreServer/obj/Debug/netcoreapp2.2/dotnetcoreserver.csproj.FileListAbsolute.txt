@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\AngularAuth\angular-auth\dotnetcoreserver\bin\Debug\netcoreapp2.2\dotnetcoreserver.deps.json
+C:\Users\Administrator\Documents\AngularAuth\angular-auth\dotnetcoreserver\bin\Debug\netcoreapp2.2\dotnetcoreserver.runtimeconfig.json
+C:\Users\Administrator\Documents\AngularAuth\angular-auth\dotnetcoreserver\bin\Debug\netcoreapp2.2\dotnetcoreserver.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\AngularAuth\angular-auth\dotnetcoreserver\bin\Debug\netcoreapp2.2\dotnetcoreserver.dll
+C:\Users\Administrator\Documents\AngularAuth\angular-auth\dotnetcoreserver\bin\Debug\netcoreapp2.2\dotnetcoreserver.pdb
+C:\Users\Administrator\Documents\AngularAuth\angular-auth\dotnetcoreserver\obj\Debug\netcoreapp2.2\dotnetcoreserver.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\AngularAuth\angular-auth\dotnetcoreserver\obj\Debug\netcoreapp2.2\dotnetcoreserver.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\AngularAuth\angular-auth\dotnetcoreserver\obj\Debug\netcoreapp2.2\dotnetcoreserver.RazorAssemblyInfo.cache
+C:\Users\Administrator\Documents\AngularAuth\angular-auth\dotnetcoreserver\obj\Debug\netcoreapp2.2\dotnetcoreserver.RazorAssemblyInfo.cs
+C:\Users\Administrator\Documents\AngularAuth\angular-auth\dotnetcoreserver\obj\Debug\netcoreapp2.2\dotnetcoreserver.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\AngularAuth\angular-auth\dotnetcoreserver\obj\Debug\netcoreapp2.2\dotnetcoreserver.AssemblyInfo.cs
+C:\Users\Administrator\Documents\AngularAuth\angular-auth\dotnetcoreserver\obj\Debug\netcoreapp2.2\dotnetcoreserver.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Documents\AngularAuth\angular-auth\dotnetcoreserver\obj\Debug\netcoreapp2.2\dotnetcoreserver.dll
+C:\Users\Administrator\Documents\AngularAuth\angular-auth\dotnetcoreserver\obj\Debug\netcoreapp2.2\dotnetcoreserver.pdb
